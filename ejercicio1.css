@@ -1,0 +1,65 @@
+/* Estilo general */
+
+.titulo {
+	background-color: slateblue;
+	color: white;
+	font-family: Tahoma;
+	padding: 10px;
+	width: 325px;
+}
+
+img, table {
+	width: 250px;
+	box-shadow: 2px  2px black;
+}
+
+.tabla {
+	margin-top: 10px;
+	border: 3px red solid;
+	border-collapse: collapse;
+}
+
+.encabezado {
+	border-collapse: collapse;
+	font-family: Verdana;
+	background-color: pink;
+}
+
+.cancion {
+	border: 3px red;
+	font-family: Impact;
+	padding-left: 5px;
+}
+
+.reproduciendo {
+	background-color: yellow;
+	color:  red;
+	text-shadow: 2px 2px 2px #000;
+	font-family:  Impact;
+}
+
+.numerocancion {
+	width: 15%;
+	border: 3px red;
+}
+
+.tabla tr td {
+	width: 15%;
+	border: 3px red solid;
+}
+
+.colorcelda {
+	background-color: hotpink;
+}
+
+.titulocancion {
+	width: 60%;
+	border: 3px red;
+}
+
+.duracioncancion {
+	width: 25%;
+	border:  3px red;
+}
+
+/* Estilo ejercicio 1 */
